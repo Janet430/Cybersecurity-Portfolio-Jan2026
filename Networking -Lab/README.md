@@ -46,3 +46,10 @@ Wireshark
 [NASITDEA ASSIGNMENT.pdf](https://github.com/user-attachments/files/24699058/NASITDEA.ASSIGNMENT.pdf)
 
 
+NETWORK SERVICES – TRYHACKME
+
+Completed hands-on lab exercises focused on enumerating and understanding common network services including SMB, Telnet and  FTP.
+
+Key concepts learned include service discovery, authentication mechanisms, and common security risks associated with exposed network services. For ethical and policy reasons, detailed solutions and flags are not included.
+
+
